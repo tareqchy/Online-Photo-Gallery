@@ -1,0 +1,20 @@
+/* 
+*  Coded By: Tareq Mahmud 
+*  Github: https://github.com/tareqchy
+*/
+
+body{background: url("../image/bg.png");}
+h1{font-family: 'Dancing Script', cursive;font-size: 40px;} 
+
+.login_form{margin-top: 100px;border: 1px solid #ccc;background: rgba(0,0,0,0.40);
+ padding: 10px;color:#fff;
+ box-shadow:1px 4px 4px 1px #aaa;
+}
+.login_form a,.signup_form a{color:#fff;}
+.signup_form{margin-top: 100px;border: 1px solid #ccc;background: rgba(0,0,0,0.40);padding: 10px;color:#fff;}
+.photogallery{margin-top: 30px;}
+.photogallery img{max-height: 180px; width: 100%;}
+.thumbnail img{height: 200px; width:100%;}
+.menu_inner{ background: rgba(0,0,0,0.6); margin-bottom: 20px;}
+.menu_inner li a{color:#fff;}
+.menu_inner li a:hover{background: rgba(0,0,0,0.8);}
